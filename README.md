@@ -1,4 +1,4 @@
-🎬 Amazon Prime Video: Content Intelligence & Rating Predictor
+🎬 Amazon Prime Video: Content Analysis & Rating Predictor
 
 📌 Project Overview
 This project leverages Natural Language Processing (NLP) and Advanced Ensemble Learning to predict IMDb ratings for content on Amazon Prime Video. It serves as a decision-support tool for content acquisition strategy.
